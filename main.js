@@ -1,3 +1,4 @@
+console.warn('Ejercicio A')
 var cantidadDeGatos = 1;
 
   do {
@@ -14,3 +15,4 @@ var cantidadDeGatos = 1;
 break
 }}
     while(cantidadDeGatos<11)
+
